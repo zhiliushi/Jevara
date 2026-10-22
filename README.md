@@ -31,7 +31,7 @@ A local-first personal knowledge application built around an Obsidian vault. It 
 
 Provider packages and APIs change. Pin tested versions in dependency manifests and verify current Google/LangChain integration before implementation.
 
-## Documentation
+## Documentations
 
 - [Product brief](docs/PRODUCT_BRIEF.md)
 - [Architecture](docs/ARCHITECTURE.md)
